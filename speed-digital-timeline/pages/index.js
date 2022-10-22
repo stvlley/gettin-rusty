@@ -47,7 +47,7 @@ export default function Home() {
         </p>
         <a href="https://speeddigital.com/" target="_blank" rel="noreferrer"
         className="uppercase tracking-widest ease-in duration-300 bg-transparent mr-auto  text-[#f0aa29] hover:text-white rounded-lg py-2 px-4 border border-[#f0aa29] hover:border-white">
-        chech us out</a>
+        check us out</a>
       </div>
       <div className="ml-0 md:ml-12 lg:w-2/3 sticky">
         <div className="container mx-auto w-full h-full">
