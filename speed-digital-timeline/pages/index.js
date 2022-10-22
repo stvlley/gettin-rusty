@@ -78,7 +78,7 @@ export default function Home() {
                 <div className=" text-right p-3 pb-6 uppercase tracking-widest text-sm md:text-lg text-white/60"><p >&quot;We look forward to bringing this unique auction format to millions of Mustang and Camaro fans&quot;</p>
                 <p>-Neil Pitt</p>
               </div>
-              <a rel="noreferrer" target="_blank" href="https://www.youtube.com/watch?v=Sojz36F7I4o" className="   text-center m-auto"><span className="tracking-widest uppercase p-2 border rounded-lg ease-in duration-300 hover:text-[#f0aa29] hover:border-[#f0aa29] text-xs">Source</span></a>
+              <a rel="noreferrer" target="_blank" href="https://www.autoremarketing.com/wholesale/online-auction-host-mustangs-vs-camaros-sale" className="   text-center m-auto"><span className="tracking-widest uppercase p-2 border rounded-lg ease-in duration-300 hover:text-[#f0aa29] hover:border-[#f0aa29] text-xs">Source</span></a>
               </div>
             </div>
             <div className="mb-8  flex justify-between flex-row-reverse items-center w-full left-timeline">
