@@ -41,7 +41,7 @@ export default function Home() {
     <div className="container mx-auto flex flex-col items-start md:flex-row my-12 md:my-24">
       <div className="flex flex-col w-full sticky md:top-36 lg:w-1/3 mt-2 md:mt-12 px-8">
         <p className="ml-2 text-[#f0aa29] uppercase md:text-8xl text-4xl tracking-wide tracking-loose">Speed digital</p>
-        <p className="uppercase tracking-widest text-xl md:text-3xl md:text-4xl leading-normal md:leading-relaxed mb-2">A look back into the last decade</p>
+        <p className="uppercase tracking-widest text-xl md:text-3xl md:text-4xl leading-normal md:leading-relaxed mb-2">A look back at the last decade</p>
         <p className="text-sm md:text-base text-gray-50 mb-4">
           
         </p>
