@@ -23,9 +23,9 @@ export default function Home() {
       <link rel="speed-digital-icon"  href="https://speeddigital.com/images/SD_MARK_on-dark-gray-e215649a.svg" />
     </Head>
       
-<section>
+<section className="bg-[url('https://speeddigital.com/images/home/mcg-bg-ecf3d4c6.jpg')]">
   
-    <div className="bg-black text-white py-8 ">
+    <div className="bg-black/30 text-white py-8 ">
       
     {loading ? 
     <div className="bg-gray-200 w-full min-h-screen flex justify-center items-center">
